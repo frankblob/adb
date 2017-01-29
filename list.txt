@@ -12,6 +12,7 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 csi.gstatic.com
 0.0.0.0 track.adform.net
 0.0.0.0 www.googletagservices.com
 0.0.0.0 pagead2.googlesyndication.com
