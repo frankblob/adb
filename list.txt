@@ -26,3 +26,4 @@
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 dmp.adform.net
+0.0.0.0 syndication.exoclick.com
