@@ -77,7 +77,8 @@
 0.0.0.0	www.googleadservices.com 
 0.0.0.0	xiti.com
 0.0.0.0 serving-sys.com
-0.0.0.0 chartboost.com
+0.0.0.0 live.chartboost.com
+0.0.0.0 v2.chartboost.com
 0.0.0.0 adkmob.com
 0.0.0.0 mopub.com
 0.0.0.0 heyzap.com
