@@ -41,7 +41,7 @@
 0.0.0.0	aim4media.com 
 0.0.0.0	airbrake.io 
 0.0.0.0	amazon-adsystem.com 
-0.0.0.0	chartbeat.com 
+0.0.0.0 chartbeat.com 
 0.0.0.0	chartboost.com 
 0.0.0.0	com.com 
 0.0.0.0	count.ly 
@@ -109,12 +109,8 @@
 0.0.0.0	wee.dk
 0.0.0.0	wwwportal.dk
 0.0.0.0	adobedtm.com
-0.0.0.0	bilka.dk/assets/ext/adobe/VisitorAPI.js
-0.0.0.0	cxense.com/cx.js$domain=common.tv2.dk
-0.0.0.0	dbastatic.dk/Content/scripts/analytics.js
+0.0.0.0	cxense.com
 0.0.0.0	msecnd.net
-0.0.0.0	tv2.dk/js/adobeanalytics/AppMeasurement.js$script
-0.0.0.0	cloudfront.net/autoTracker.min.js$domain=direkte.vg.no
 0.0.0.0	click.vgnett.no
 0.0.0.0	fusion.nettavisen.no
 0.0.0.0	vg.no/stats/
