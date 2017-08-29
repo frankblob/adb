@@ -121,3 +121,10 @@
 0.0.0.0	trafikkfondet.no
 0.0.0.0	webstat.no
 0.0.0.0	xtractor.no
+0.0.0.0 choice.microsoft.com
+0.0.0.0 choice.microsoft.com.nsatc.net
+0.0.0.0 feedback.search.microsoft.com
+0.0.0.0 feedback.windows.com
+0.0.0.0 sls.update.microsoft.com.akadns.net
+0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 statsfe2.update.microsoft.com.akadns.net
