@@ -180,3 +180,17 @@
 0.0.0.0 babs.tv2.dk
 0.0.0.0 chart.dk
 0.0.0.0 emediate.dk
+0.0.0.0 x8x.dyndns.dk
+0.0.0.0 tracking.euroads.dk
+0.0.0.0 tdc.advertorials.dk
+0.0.0.0 script.netminers.dk
+0.0.0.0 cookie.fdih.dk
+0.0.0.0 count.dba.dk
+0.0.0.0 counter.nope.dk
+0.0.0.0 ad.advantagemedia.dk
+0.0.0.0 ads2.jubii.dk
+0.0.0.0 ads3.jubii.dk
+0.0.0.0 ads.edbindex.dk
+0.0.0.0 adserver.ad-it.dk
+0.0.0.0 ads.jubii.dk
+0.0.0.0 babs.tv2.dk
