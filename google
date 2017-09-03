@@ -1,0 +1,13 @@
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 csi.gstatic.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0	google-analytics.com 
+0.0.0.0	googlesyndication.com 
+0.0.0.0	googletagmanager.com 
+0.0.0.0	googletagservices.com 
+0.0.0.0	suggestqueries.google.com
