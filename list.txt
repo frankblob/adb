@@ -38,8 +38,6 @@
 0.0.0.0	com.com 
 0.0.0.0	count.ly 
 0.0.0.0	crashlytics.com 
-0.0.0.0	r1---sn-cvh7knez.googlevideo.com
-0.0.0.0	r2---sn-cvh7knez.googlevideo.com
 0.0.0.0	crittercism.com 
 0.0.0.0	duapps.com 
 0.0.0.0	emediate.eu 
