@@ -194,4 +194,4 @@
 0.0.0.0 adserver.ad-it.dk
 0.0.0.0 ads.jubii.dk
 0.0.0.0 babs.tv2.dk
-clients5.google.com
+0.0.0.0 clients5.google.com
