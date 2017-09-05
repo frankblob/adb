@@ -18,3 +18,8 @@
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 notifications.google.com 
+0.0.0.0 1.client-channel.google.com
+0.0.0.0 ogs.google.com
+0.0.0.0 consent.google.com
+0.0.0.0 apis.google.com
