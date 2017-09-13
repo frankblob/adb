@@ -27,4 +27,7 @@ You can compose your own lists and add to or replace the above ones. Simply crea
 ### How do you modify and reformat lists?
 For search and replace, formatting, reformatting and general text editing of adblocker lists, I use [Pinetools](http://pinetools.com/c-text-lists/) (online and free), since it readily accepts dumps of even large lists. If you need to use regex, I often use [regex101](https://regex101.com/) for real-time checking before applying my intended list editing.
 
+### I have additions, changes or suggestions!
+Emails and pull requests are very welcome.
+
 Cheers!
