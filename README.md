@@ -16,13 +16,13 @@ To apply on your EdgeRouter (or dnsmasq-based router/server), do this:
 4. #> sudo /etc/init.d/dnsmasq restart
 
 _Optional:_
-* 3.1. #> sudo curl -O https://github.com/frankblob/adb/raw/master/notrack.conf
+3.1. #> sudo curl -O https://github.com/frankblob/adb/raw/master/notrack.conf
 
 ## Do it yourself
 You can compose your own lists and add to or replace the above ones. Simply create a file named "whatever" + ".conf" and copy/save it to /etc/dnsmasq.d/, with lines of hosts you wish to block, formatted like this in:
 
-* A. "address=/" + "HOST/domain" + "/0.0.0.0" 
-* B. Do NOT add URLs, like "server.com/monetize/tracking" - only "server.com"!
+1. "address=/" + "HOST/domain" + "/0.0.0.0" 
+2. Do NOT add URLs, like "server.com/monetize/tracking" - only "server.com"!
 
 ### How do you modify and reformat lists?
 For search and replace, formatting, reformatting and general text editing of adblocker lists, I use [Pinetools](http://pinetools.com/c-text-lists/) (online and free), since it readily accepts dumps of even large lists. If you need to use regex, I often use [regex101](https://regex101.com/) for real-time checking before applying my intended list editing.
