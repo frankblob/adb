@@ -8,7 +8,7 @@ I use this lists on my Ubiquiti ER-X EdgeRouter.
 ## How-to
 To apply on your EdgeRouter (or dnsmasq-based router/server), do this:
 
-1. SSH into your EdgeRouter
+1. SSH into your server/box/EdgeRouter
 2. #> cd /etc/dnsmasq.d
 3. #> sudo curl -O https://raw.githubusercontent.com/frankblob/adb/master/erx.conf
 4. #> sudo /etc/init.d/dnsmasq restart
