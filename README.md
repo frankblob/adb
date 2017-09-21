@@ -1,22 +1,17 @@
 # Adblocking - ads, YouTube and unnecessary Google hosts
 ### Trimmed lists for blocking ads and trackers (including, to some extent, Youtube video ads and unnecessary Google hosts), with a primary focus on Western and Scandinavian regions (Denmark and Norway, in particular).
 
-**General purpose list (~11.000 hosts):** [erx](https://github.com/frankblob/adb/raw/master/erx.conf) **or** [erx0](https://github.com/frankblob/adb/raw/master/erx0), depending on the format you want.
+**General purpose list for blocking ads, trackers and bad places (~27.000 hosts):** [erx](https://github.com/frankblob/adb/raw/master/erx.conf) **or** [erx0](https://github.com/frankblob/adb/raw/master/erx0), depending on the format you want.
 
-**Trackers-blocking bonus pack (~12.000 additional hosts):** [notrack](https://github.com/frankblob/adb/raw/master/notrack.conf) **or** [notrack0](https://github.com/frankblob/adb/raw/master/notrack0), depending on the format you want.
-
-I use both these lists on my Ubiquiti ER-X EdgeRouter. 
+I use this lists on my Ubiquiti ER-X EdgeRouter. 
 
 ## How-to
 To apply on your EdgeRouter (or dnsmasq-based router/server), do this:
 
 1. SSH into your EdgeRouter
 2. #> cd /etc/dnsmasq.d
-3. #> sudo curl -O https://github.com/frankblob/adb/raw/master/erx.conf
+3. #> sudo curl -O https://raw.githubusercontent.com/frankblob/adb/master/erx.conf
 4. #> sudo /etc/init.d/dnsmasq restart
-
-_Optional:_
-3.1. #> sudo curl -O https://github.com/frankblob/adb/raw/master/notrack.conf
 
 ## Do it yourself
 You can compose your own lists and add to or replace the above ones. Simply create a file named "whatever" + ".conf" and copy/save it to /etc/dnsmasq.d/, with lines of hosts you wish to block, formatted like this in:
