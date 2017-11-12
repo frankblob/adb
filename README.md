@@ -1,7 +1,7 @@
 # Adblocking - ads, YouTube and unnecessary Google hosts
 ### Trimmed lists for blocking ads and trackers (including, to some extent, Youtube video ads and unnecessary Google hosts), with a primary focus on Western and Scandinavian regions (Denmark and Norway, in particular).
 
-**General purpose list for blocking ads, trackers and bad places (~27.000 hosts):** [erx](https://github.com/frankblob/adb/raw/master/erx.conf) **or** [erx0](https://github.com/frankblob/adb/raw/master/erx0), depending on the format you want.
+**General purpose list for blocking ads, trackers and bad places (~16.000 hosts):** [erx](https://github.com/frankblob/adb/raw/master/erx.conf) **or** [erx0](https://github.com/frankblob/adb/raw/master/erx0), depending on the format you want.
 
 I use this list on my Ubiquiti ER-X EdgeRouter. 
 
