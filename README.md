@@ -1,5 +1,5 @@
 # Adblocking - ads, YouTube and unnecessary Google hosts
-### Trimmed lists for blocking ads and trackers (including, to some extent, Youtube video ads and unnecessary Google hosts), with a primary focus on Western and Scandinavian regions (Denmark and Norway, in particular).
+### Trimmed lists for blocking ads and trackers (including, to some extent, Youtube video ads and unnecessary Google hosts), with a primary focus on US, Western Europe and Scandinavia (Denmark and Norway, in particular).
 
 **General purpose list for blocking ads, trackers and bad places (~16.000 hosts):** [erx](https://github.com/frankblob/adb/raw/master/erx.conf) **or** [erx0](https://github.com/frankblob/adb/raw/master/erx0), depending on the format you want.
 
@@ -11,7 +11,8 @@ To apply on your EdgeRouter (or dnsmasq-based router/server), do this:
 1. SSH into your server/box/EdgeRouter
 2. #> sudo su
 3. #> cd /etc/dnsmasq.d
-4. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/erx.conf
+4a. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/erx.conf
+4b. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/testing.conf (optional)
 5. #> service dnsmasq restart
 
 ## Do it yourself
