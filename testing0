@@ -2,6 +2,7 @@
 0.0.0.0 a-0020.a-msedge.net
 0.0.0.0 abtest.mistat.intl.xiaomi.com
 0.0.0.0 adpushup.com
+0.0.0.0 adsunflower.com
 0.0.0.0 alog.umeng.co
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 baidu.com
@@ -11,6 +12,7 @@
 0.0.0.0 channel.status.request.url
 0.0.0.0 client-office365-tas.msedge.net
 0.0.0.0 client-office365tas.msedge.net
+0.0.0.0 cn
 0.0.0.0 config.edge.skype.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 connect.rom.miui.com
@@ -26,6 +28,7 @@
 0.0.0.0 fusepowered.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
+0.0.0.0 hello.myfonts.net
 0.0.0.0 hyperurl.co
 0.0.0.0 i1.ytimg.com
 0.0.0.0 i2w.io
@@ -38,11 +41,14 @@
 0.0.0.0 officecdn.microsoft.com
 0.0.0.0 p.imgur.com
 0.0.0.0 player-services.goviral-content.com
+0.0.0.0 pls.webtype.com
 0.0.0.0 pussl32.com
 0.0.0.0 px.spiceworks.com
+0.0.0.0 qq.com
 0.0.0.0 r.browser.intl.miui.com
 0.0.0.0 raygun.io
 0.0.0.0 redirector.gvt1.com
+0.0.0.0 ru
 0.0.0.0 scorecardsearch.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 settings-win.data.microsoft.com
@@ -51,12 +57,16 @@
 0.0.0.0 sparta.qb.mig.tencent-cloud.net
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 static.ads-twitter.com
+0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 symcd.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 tagx.nytimes.com
 0.0.0.0 thm.market.xiaomi.com
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tradetracker.net
+0.0.0.0 tradetracker.net
+0.0.0.0 unityads.unity3d.com
 0.0.0.0 upsight.com
 0.0.0.0 usertrust.com
 0.0.0.0 va.tawk.to
