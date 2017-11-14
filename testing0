@@ -6,6 +6,7 @@
 0.0.0.0 alog.umeng.co
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 baidu.com
+0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 bigcommerce.com
 0.0.0.0 blogglisten.no
 0.0.0.0 cdn.onenote.net
@@ -16,6 +17,8 @@
 0.0.0.0 config.edge.skype.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 connect.rom.miui.com
+0.0.0.0 d5nxst8fruw4z.cloudfront.net
+0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 data.cnn.com
 0.0.0.0 data.flurry.com
 0.0.0.0 dc.ads.linkedin.com
@@ -32,14 +35,18 @@
 0.0.0.0 hyperurl.co
 0.0.0.0 i1.ytimg.com
 0.0.0.0 i2w.io
+0.0.0.0 ieonline.microsoft.com
 0.0.0.0 img.alibaba.com
+0.0.0.0 imgix.net
 0.0.0.0 info.3g.qq.com
 0.0.0.0 jqueryui.com
 0.0.0.0 micloud.xiaomi.net
 0.0.0.0 mrodevicemgr.officeapps.live.com
 0.0.0.0 ocos-office365-s2s.msedge.net
 0.0.0.0 officecdn.microsoft.com
+0.0.0.0 otf.msn.com
 0.0.0.0 p.imgur.com
+0.0.0.0 platform.linkedin.com
 0.0.0.0 player-services.goviral-content.com
 0.0.0.0 pls.webtype.com
 0.0.0.0 pussl32.com
@@ -53,9 +60,11 @@
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 smetrics.cnn.com
+0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 sohu.com
 0.0.0.0 sparta.qb.mig.tencent-cloud.net
 0.0.0.0 ssl.google-analytics.com
+0.0.0.0 sstats.adobe.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 symcd.com
@@ -63,6 +72,7 @@
 0.0.0.0 tagx.nytimes.com
 0.0.0.0 thm.market.xiaomi.com
 0.0.0.0 tile-service.weather.microsoft.com
+0.0.0.0 track-eu.adformnet.akadns.net
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tradetracker.net
 0.0.0.0 tradetracker.net
