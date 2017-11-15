@@ -11,9 +11,9 @@ To apply on your EdgeRouter (or dnsmasq-based router/server), do this:
 1. SSH into your server/box/EdgeRouter
 2. #> sudo su
 3. #> cd /etc/dnsmasq.d     
-4a. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/erx.conf     
-4b. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/testing.conf (optional)    
-5. #> service dnsmasq restart
+4. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/erx.conf     
+5. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/testing.conf (*optional*)    
+6. #> service dnsmasq restart
 
 ## Do it yourself
 You can compose your own lists and add to or replace the above ones. Simply create a file named "whatever" + ".conf" and copy/save it to /etc/dnsmasq.d/, with lines of hosts you wish to block, formatted like this in:
