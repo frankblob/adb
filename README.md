@@ -10,9 +10,9 @@ To apply on your EdgeRouter (or dnsmasq-based router/server), do this:
 
 1. SSH into your server/box/EdgeRouter
 2. #> sudo su
-3. #> cd /etc/dnsmasq.d
-4a. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/erx.conf
-4b. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/testing.conf (optional)
+3. #> cd /etc/dnsmasq.d     
+4a. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/erx.conf     
+4b. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/testing.conf (optional)    
 5. #> service dnsmasq restart
 
 ## Do it yourself
