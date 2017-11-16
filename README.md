@@ -1,5 +1,5 @@
 # Adblocking - ads, trackers, malware and miners
-### Trimmed list for blocking ads, trackers, malware and miners, with a primary focus on US, Western Europe and Scandinavia (Denmark and Norway, in particular). Optional wildcard blocking of .ru and .cn domains available as add-on block list.
+### Trimmed list for blocking ads, trackers, malware and miners, with a primary focus on US, Western Europe and Scandinavia (Denmark and Norway, in particular). Optional wildcard blocking of .ru and .cn top-level domains available as add-on block list.
 
 **General purpose list for blocking ads, trackers and bad places (~17.000 hosts):** [erx](https://github.com/frankblob/adb/raw/master/erx.conf) **or** [erx0](https://github.com/frankblob/adb/raw/master/erx0), depending on the format you want.
 
@@ -13,7 +13,8 @@ To apply on your EdgeRouter (or dnsmasq-based router/server), do this:
 3. #> cd /etc/dnsmasq.d     
 4. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/erx.conf     
 5. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/testing.conf (*optional*)    
-6. #> service dnsmasq restart
+6. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/wildcards.conf (*optional*)    
+7. #> service dnsmasq restart
 
 ## Do it yourself
 You can compose your own lists and add to or replace the above ones. Simply create a file named "whatever" + ".conf" and copy/save it to /etc/dnsmasq.d/, with lines of hosts you wish to block, formatted like this in:
