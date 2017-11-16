@@ -1,7 +1,7 @@
 # Adblocking - ads, trackers, malware and miners
 ### Trimmed list for blocking ads, trackers, malware and miners, with a primary focus on US, Western Europe and Scandinavia (Denmark and Norway, in particular). Optional wildcard blocking of .ru and .cn top-level domains available as add-on block list.
 
-**General purpose list for blocking ads, trackers and bad places (~17.000 hosts):** [erx](https://github.com/frankblob/adb/raw/master/erx.conf) **or** [erx0](https://github.com/frankblob/adb/raw/master/erx0), depending on the format you want.
+**General purpose list for blocking ads, trackers and bad places (~14.000 hosts):** [erx](https://github.com/frankblob/adb/raw/master/erx.conf) **or** [erx0](https://github.com/frankblob/adb/raw/master/erx0), depending on the format you want.
 
 I use this list on my Ubiquiti ER-X EdgeRouter. 
 
