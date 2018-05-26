@@ -14,7 +14,7 @@ To apply on your EdgeRouter (or dnsmasq-based router/server), do this:
 4. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/erx.conf     
 5. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/testing.conf (*optional*)    
 6. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/wildcards.conf (*optional*)
-7. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/wildcards.conf (*personal*)
+7. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/top10.conf (*personal*)
 8. #> service dnsmasq restart
 
 ## Do it yourself
