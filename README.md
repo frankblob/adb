@@ -13,8 +13,9 @@ To apply on your EdgeRouter (or dnsmasq-based router/server), do this:
 3. #> cd /etc/dnsmasq.d     
 4. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/erx.conf     
 5. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/testing.conf (*optional*)    
-6. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/wildcards.conf (*optional*)    
-7. #> service dnsmasq restart
+6. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/wildcards.conf (*optional*)
+7. #> curl -O https://raw.githubusercontent.com/frankblob/adb/master/wildcards.conf (*personal*)
+8. #> service dnsmasq restart
 
 ## Do it yourself
 You can compose your own lists and add to or replace the above ones. Simply create a file named "whatever" + ".conf" and copy/save it to /etc/dnsmasq.d/, with lines of hosts you wish to block, formatted like this in:
